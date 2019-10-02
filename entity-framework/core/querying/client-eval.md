@@ -56,7 +56,7 @@ var blogs = context.Blogs
 
 ## Client evaluation logging
 
-By default, EF Core will log a warning when client evaluation is performed. See [Logging](../miscellaneous/logging.md) for more information on viewing logging output. 
+By default, EF Core will log a warning when client evaluation is performed. See [Logging](../miscellaneous/logging.md) for more information on viewing logging output.
 
 ## Optional behavior: throw an exception for client evaluation
 
